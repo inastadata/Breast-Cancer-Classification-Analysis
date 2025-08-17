@@ -3,7 +3,6 @@ End-to-end machine learning project to classify breast cancer tumors as malignan
 
 # Analisis Klasifikasi Kanker Payudara: Sebuah Studi Kasus Machine Learning
 
-![Breast Cancer Banner](httpsg://user-images.githubusercontent.com/8433369/129424204-7414734b-1430-4359-87a4-22161f31f24d.png)
 
 Proyek ini adalah implementasi end-to-end dari alur kerja data science untuk memprediksi apakah tumor payudara bersifat **ganas (Malignant)** atau **jinak (Benign)**. Studi kasus ini mencakup pembersihan data, analisis eksplorasi, pembuatan model dasar, hingga optimasi untuk meningkatkan performa.
 
@@ -56,7 +55,6 @@ Optimasi menggunakan *Feature Scaling* menunjukkan peningkatan performa yang sig
 | **Recall (Ganas)** | 86%                         | **93%** | **+7%** |
 | **False Negative** | 6 Kasus                     | **3 Kasus** | **Berkurang 50%** |
 
-![Perbandingan Metrik Model](https://i.imgur.com/your-chart-image-url.png) _(Ganti URL ini dengan URL gambar chart perbandingan Anda)_
 
 **Analisis Kunci:**
 * **Akurasi Meningkat:** Penskalaan fitur berhasil meningkatkan akurasi keseluruhan, membuat model lebih andal.
